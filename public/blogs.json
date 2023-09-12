@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "John Doe",
+      "published_date": "2023-09-11",
+      "time_to_read": 10,
+      "blog_title": "The Art of Programming",
+      "hashtag": ["#programming", "#coding", "#software"]
+    },
+    {
+      "id": 2,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Jane Smith",
+      "published_date": "2023-09-12",
+      "time_to_read": 8,
+      "blog_title": "Exploring Machine Learning",
+      "hashtag": ["#machine learning", "#data science", "#AI"]
+    },
+    {
+      "id": 3,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Alice Johnson",
+      "published_date": "2023-09-13",
+      "time_to_read": 12,
+      "blog_title": "Web Development Best Practices",
+      "hashtag": ["#web development", "#frontend", "#backend"]
+    },
+    {
+      "id": 4,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "David Wilson",
+      "published_date": "2023-09-14",
+      "time_to_read": 7,
+      "blog_title": "The Importance of Cybersecurity",
+      "hashtag": ["#cybersecurity", "#infosec", "#privacy"]
+    },
+    {
+      "id": 5,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Emily Brown",
+      "published_date": "2023-09-15",
+      "time_to_read": 15,
+      "blog_title": "Healthy Lifestyle Tips",
+      "hashtag": ["#health", "#fitness", "#nutrition"]
+    },
+    {
+      "id": 6,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Michael Clark",
+      "published_date": "2023-09-16",
+      "time_to_read": 9,
+      "blog_title": "Artificial Intelligence Trends",
+      "hashtag": ["#AI", "#machine learning", "#tech"]
+    },
+    {
+      "id": 7,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Sophia Davis",
+      "published_date": "2023-09-17",
+      "time_to_read": 11,
+      "blog_title": "Effective Team Collaboration",
+      "hashtag": ["#teamwork", "#communication", "#leadership"]
+    },
+    {
+      "id": 8,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "William Turner",
+      "published_date": "2023-09-18",
+      "time_to_read": 6,
+      "blog_title": "Data Visualization Techniques",
+      "hashtag": ["#data visualization", "#analytics", "#charts"]
+    },
+    {
+      "id": 9,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Olivia White",
+      "published_date": "2023-09-19",
+      "time_to_read": 14,
+      "blog_title": "UX Design Principles",
+      "hashtag": ["#UX design", "#user experience", "#usability"]
+    },
+    {
+      "id": 10,
+      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
+      "author_image": "../src/assets/author.png",
+      "author_name": "Daniel Adams",
+      "published_date": "2023-09-20",
+      "time_to_read": 13,
+      "blog_title": "Blockchain Technology Explained",
+      "hashtag": ["#blockchain", "#cryptocurrency", "#decentralization"]
+    }
+  ]
+  
