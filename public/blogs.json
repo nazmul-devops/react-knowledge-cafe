@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "blog_cover_image": "https://placehold.co/845x450?text=Knowledge+Cafe&us=rl",
-      "author_image": "../src/assets/author.png",
+      "blog_cover_image": "../src/assets/blog1.png",
+      "author_image": "../src/assets/images/profile.png",
       "author_name": "John Doe",
       "published_date": "2023-09-11",
       "time_to_read": 10,
       "blog_title": "The Art of Programming",
-      "hashtag": ["#programming", "#coding", "#software"]
+      "hashtag": ["#programming",  "#coding",  "#software"]
     },
     {
       "id": 2,
